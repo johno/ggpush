@@ -1,0 +1,25 @@
+{
+  "name": "ggpush",
+  "version": "1.0.0",
+  "description": "Git push shortuct that automatically infers the current branch",
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "repository": "johnotander/ggpush",
+  "license": "MIT",
+  "bin": "ggpush.sh",
+  "files": [
+    "ggpush.sh"
+  ],
+  "keywords": [
+    "cli-app",
+    "git",
+    "push",
+    "ggpush",
+    "sh"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "git-current-branch": "^1.0.3"
+  }
+}
