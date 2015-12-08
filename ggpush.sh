@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-git push origin $(git-current-branch)
+git push origin $(./node_modules/.bin/git-current-branch)
