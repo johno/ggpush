@@ -16,7 +16,8 @@ $ ggpush
 
 ## Acknowledgements
 
-Adapted and repackaged from [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh/blob/c82f49e734973debfcab9dd7f1a76bfd42186880/plugins/git/git.plugin.zsh#L13)
+* Adapted and repackaged from [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh/blob/c82f49e734973debfcab9dd7f1a76bfd42186880/plugins/git/git.plugin.zsh#L13)
+* Dependent script eval adopted from [`np`](https://github.com/sindresorhus/np/blob/d6a221c7e41fc77a9d1bc24d7425c8b85058a888/np.sh#L18)
 
 ## License
 
